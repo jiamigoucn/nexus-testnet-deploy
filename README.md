@@ -18,3 +18,11 @@
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/JiamigouCn/nexus-testnet-deploy/main/deploy-nexus.sh | bash
+
+---
+
+## 运行后按提示输入你的：
+
+✅ Prover ID（来自 https://app.nexus.xyz）
+
+✅ 钱包地址（可选）
